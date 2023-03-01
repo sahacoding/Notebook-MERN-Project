@@ -1,6 +1,5 @@
 
-// require("dotenv").config();
-// console.log('secret is', process.env.JAG)
+ 
 
 
 const express = require('express');
